@@ -1,4 +1,4 @@
-# _First_ things first
+# First things first
 
 _First_ is a journal of near-future technology and society.
 We predict where current conditions will lead us.
